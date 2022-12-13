@@ -1,7 +1,7 @@
 # AI-Project 
 ---
 ### Group 15  -  INT3401_22
-#### Link repo: https://github.com/huuducsc/Pacman-search
+#### Link repo: https://github.com/huuducsc/AI-Project-Group15-INT3401_22/
 #### Members:
 - Hoàng Phan Hữu Đức (20020011) 
 - Hoàng Phan Hữu Phúc (20020026)
